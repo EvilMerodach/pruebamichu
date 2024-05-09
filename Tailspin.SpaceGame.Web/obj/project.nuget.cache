@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uO4OPxG2UGg=",
+  "success": true,
+  "projectFilePath": "/Users/Michelle/Documents/prueba4/pruebamichu/Tailspin.SpaceGame.Web/Tailspin.SpaceGame.Web.csproj",
+  "expectedPackageFiles": [
+    "/Users/Michelle/.nuget/packages/microsoft.netcore.app.ref/6.0.27/microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "/Users/Michelle/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.27/microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "/Users/Michelle/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.27/microsoft.netcore.app.host.osx-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
